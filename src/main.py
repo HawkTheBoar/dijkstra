@@ -12,4 +12,4 @@ if __name__ == "__main__":
         (5, 4, 2),
         (5, 2, 8)
     ]
-    print(dijkstra(vertices, edges, 0))
+    print(dijkstra(edges, vertices, 0))
